@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Dheeraj Pranav</h1>
-<h3 align="center">Machine Learning ENgineer & Deep Learning Practitioner.</h3>
+<h1 align="center"> Dheeraj Pranav</h1>
+<h3 align="center">Machine Learning Engineer & Deep Learning Practitioner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajpranav&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajpranav" /> </p>
 
