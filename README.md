@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajput Jay</h1>
-<h3 align="center">A passionate DataScientist from India.</h3>
+<h1 align="center">Hi 👋, Dheeraj Pranav</h1>
+<h3 align="center">Machine Learning ENgineer & Deep Learning Practitioner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputjay41&label=Profile%20views&color=0e75b6&style=flat" alt="rajputjay41" /> </p>
 
@@ -8,23 +8,10 @@
 
 - 🔭 I’m currently working on [Malenoma Classification](https://github.com/RajputJay41/Malenoma--classification)
 
-- 🌱 I’m currently learning **Machine Learning And Deep Learning**
+- 🌱 I’m currently working on **Machine Learning And Deep Learning**
 
-- 👯 I’m looking to collaborate on [Neural Enhance](https://github.com/alexjc/neural-enhance)
 
-- 🤝 I’m looking for help with **All Plants and crops Diseases Detection**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RajputJay41](https://github.com/RajputJay41)
-
-- 📝 I regulary write articles on [https://github.com/RajputJay41/Feature-Engineering](https://github.com/RajputJay41/Feature-Engineering)
-
-- 💬 Ask me about **Android , java, c++, FinTech, Buisness.**
-
-- 📫 How to reach me **jayrajput647@gmail.com**
-
-- 📄 Know about my experiences in my resume [https://drive.google.com/file/d/1fDsWsKmLTcaR1Pj2KwL1Tv1K42c3YB6-/view?usp=sharing](https://drive.google.com/file/d/1fDsWsKmLTcaR1Pj2KwL1Tv1K42c3YB6-/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am a Good Writer and a gamer too.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
